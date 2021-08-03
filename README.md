@@ -43,3 +43,11 @@ DiscordBotList: [discordbotlist.com/bots/gigabit](https://DiscordBotList.com/bot
   
  Top.gg: [top.gg/bot/848536456694595604/vote](https://top.gg/bot/848536456694595604/vote) <p>
  Discord Worlds: [discordworlds.ml/bot/848536456694595604/vote](https://discordworlds.ml/bot/848536456694595604/vote)
+   
+ # Support
+ 
+Join the support [here](https://gigabit-bot.ml/s)
+   
+# Credits
+ 
+Gigabit was made by [Woistjay#5986](https://www.woistjay.ml)
