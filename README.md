@@ -4,6 +4,8 @@ Gigabit is a fun, moderation and utility bot.
 ## Status
 
 [![Discord Bots](https://top.gg/api/widget/status/848536456694595604.svg)](https://top.gg/bot/848536456694595604)
+<iframe src="https://discordworlds.ml/bot/848536456694595604/widgets/normal" width="350" height="200" allowtransparency="true" frameborder="0" scrolling="no" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
 
 # About
 
